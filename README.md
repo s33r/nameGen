@@ -4,7 +4,7 @@ nameGen
 Generates band names using the WordNet word database
 
 Current Features:
-* Parses the index.* and data* file formats to create a list of words.
+* Parses the index.* and data.* file formats to create a list of words.
 * Can generate phrases <adjective> <noun> and <adverb> <verb>
 
 Future Features
